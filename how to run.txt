@@ -1,1 +1,0 @@
-C:\Users\cybernetx\Desktop\sender\port 2010>a 192.168.0.103 38 -115 500
